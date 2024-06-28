@@ -1,0 +1,10 @@
+langchain_groq==0.1.5
+matplotlib==3.7.1
+numpy==1.24.3
+pandas==1.5.3
+pandasai==2.2.7
+python-dotenv==1.0.1
+seaborn==0.13.2
+streamlit==1.35.0
+~andas==2.0.3
+~treamlit==1.32.2
